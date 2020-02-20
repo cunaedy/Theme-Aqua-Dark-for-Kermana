@@ -9,6 +9,9 @@ you can visit https://www.c97.net to download the free script before using this 
 This theme was designed based on the theme (default). I found that the layout is overall very good.
 So I made very little change to the layout. However, I added more styles to give life to Kemana.
 
+## Live Demo
+Visit https://www.demo.hostingwolf.ca/kermana-directory/ for live demo.
+
 ## Changelog
 1. I opted for a fixed position on the top menu. (The menu is now accessible at all times.
 2. I took out the logo from the top menu. (The logo was too small for my taste.) The logo and the text can be added from the administration. I used the footer and navbar php
